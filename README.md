@@ -1,7 +1,7 @@
-# Connect_to_ubuntu_through_ssh
-how do I connect to my VM ubuntu though ssh
+# Connect_to_Linux_VM_through_ssh
+how do I connect to my VM though ssh
 
-1. Open the terminal of my ubuntu VM
+1. Open the terminal of my VM
 2. Install openssh
 ```Bash
 sudo apt-get install openssh-server
